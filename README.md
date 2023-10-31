@@ -8,4 +8,4 @@ Jungyeul's Zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaF
 * [[Lab 1](./block2/dsci512_lab1.ipynb)]
 * [[Lab 2](./block2/dsci512_lab2.ipynb)]
 * [[Lab 3](./block2/dsci512_lab3.ipynb)]
-* [Lab 4]
+* [[Lab 4](./block2/dsci512_lab4.ipynb)]
