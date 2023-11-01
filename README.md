@@ -2,6 +2,13 @@
 
 Jungyeul's Zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09
 
+## Block 3
+### COLX_521_corp-ling
+* [Lab 1]
+* [Lab 2]
+* [Lab 3]
+* [Lab 4]
+
 
 ## Block 2
 ### DSCI_512_alg-data-struct 
