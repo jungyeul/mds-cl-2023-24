@@ -10,6 +10,7 @@ Jungyeul's Zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaF
 * [Lab 4]
 
 
+
 ## Block 2
 ### DSCI_512_alg-data-struct 
 * [[Lab 1](./block2/dsci512_lab1.ipynb)]
