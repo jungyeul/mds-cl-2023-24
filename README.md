@@ -4,7 +4,7 @@ Jungyeul's Zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaF
 
 ## Block 3
 ### COLX_521_corp-ling
-* [Lab 1]
+* [[Lab 1](./block3/corp-ling_lab1.ipynb)]
 * [Lab 2]
 * [Lab 3]
 * [Lab 4]
