@@ -1,5 +1,7 @@
 # Jungyeul's mds-cl-2023-24 repo for lab cheat sheets
 
+Jurafsky BOOK: https://web.stanford.edu/~jurafsky/slp3/
+
 Jungyeul's Zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09
 
 ## Block 3
