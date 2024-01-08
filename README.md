@@ -2,7 +2,7 @@
 
 ## Block 4
 ### DSCI_563_unsup-learn (Mon)
-* [[Lab 1]]
+* [[Lab 1](./block4/DSCI_563_unsup_lab1.ipynb)]
 
 ### COLX_561_semantics (Tue)
 * [[Lab 1]]
