@@ -5,7 +5,7 @@
 * [[Lab 1](./block4/DSCI_563_unsup_lab1.ipynb)]
 
 ### COLX_561_semantics (Tue)
-* [[Lab 1]]
+* [[Lab 1](./block4/COLX_561_semantics_lab1.ipynb)]
 
 ### COLX_535_parsing (Wed)
 * [[Lab 1]]
