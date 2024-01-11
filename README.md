@@ -11,7 +11,7 @@
 * [[Lab 1](./block4/COLX_535_parsing_lab1.ipynb)]
 
 ### DSCI_572_sup-learn-2 (Thu)
-* [[Lab 1]]
+* [[Lab 1](./block4/DSCI_572_sup-learn-2_lab1.ipynb)]
 
 
 ## Block 3
