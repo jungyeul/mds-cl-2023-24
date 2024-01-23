@@ -9,6 +9,7 @@
 ### COLX_561_semantics (Tue)
 * [[Lab 1](./block4/COLX_561_semantics_lab1.ipynb)]
 * [[Lab 2](./block4/COLX_561_semantics_lab2.ipynb)]
+* [[Lab 3](./block4/COLX_561_semantics_lab3.ipynb)]
 
 ### COLX_535_parsing (Wed)
 * [[Lab 1](./block4/COLX_535_parsing_lab1.ipynb)]
