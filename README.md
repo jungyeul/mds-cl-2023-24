@@ -2,7 +2,7 @@
 
 ## Block 5
 ### COLX_523_adv-corp-ling (Mon)
-* 
+* ORCH 4018 at 2pm
 
 ### COLX_565_sentiment (Tue)
 * [Lab 1]
