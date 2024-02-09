@@ -1,5 +1,19 @@
 # Jungyeul's mds-cl-2023-24 repo for lab cheat sheets
 
+## Block 5
+### COLX_523_adv-corp-ling (Mon)
+* 
+
+### COLX_565_sentiment (Tue)
+* [Lab 1]
+
+### COLX_525_morphology (Wed)
+* [Lab 1]
+
+### COLX_531_translation (Thu)
+* [Lab 1]
+
+
 ## Block 4
 ### DSCI_563_unsup-learn (Mon)
 * [[Lab 1](./block4/DSCI_563_unsup_lab1.ipynb)]
