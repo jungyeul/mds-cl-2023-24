@@ -8,7 +8,7 @@
 * [[Lab 1](./block5/COLX_565_sentiment_lab1.ipynb)], requires [subjectivity.txt](https://raw.githubusercontent.com/jungyeul/mds-cl-2023-24/main/block5/subjectivity.txt)
 
 ### COLX_525_morphology (Wed)
-* [Lab 1]
+* [[Lab 1](./block5/COLX_525_morphology_lab1.ipynb)]
 
 ### COLX_531_translation (Thu)
 * [Lab 1]
