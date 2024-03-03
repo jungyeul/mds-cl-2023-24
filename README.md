@@ -15,7 +15,7 @@
 ### COLX_531_translation (Thu)
 * [Lab 1]
 * [Lab 2]
-* [Lab 3] requires `milestone1`, which contains `teamwork_contract.md`, `data_inspection.md`, and an [overleaf document](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp) with (*Timeline*, *Task description*, *Evaluation metrics*, *Week 1 Plan*, and *Contributions*)
+* [Lab 3] requires a repo with a folder `milestone1`, which contains `teamwork_contract.md`, `data_inspection.md`, and an [overleaf document](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp) with (*Timeline*, *Task description*, *Evaluation metrics*, *Week 1 Plan*, and *Contributions*)
 
 
 ## Block 4
