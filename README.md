@@ -7,13 +7,13 @@
 ### COLX_565_sentiment (Tue)
 * [[Lab 1](./block5/COLX_565_sentiment_lab1.ipynb)], requires [subjectivity.txt](https://raw.githubusercontent.com/jungyeul/mds-cl-2023-24/main/block5/subjectivity.txt)
 * [[Lab 2](./block5/COLX_565_sentiment_lab2.ipynb)], MELD: https://github.com/declare-lab/MELD
-* [Lab3]
+* [[Lab 3](./block5/COLX_565_sentiment_lab3.ipynb)], see the cheatsheet for amazon data
 * [Lab4]
 
 ### COLX_525_morphology (Wed)
 * [[Lab 1](./block5/COLX_525_morphology_lab1.ipynb)]
 * [[Lab 2](./block5/COLX_525_morphology_lab2.ipynb)]
-* [Lab3]
+* [[Lab 3](./block5/COLX_525_morphology_lab3.ipynb)]
 * [Lab4]
 
 ### COLX_531_translation (Thu)
