@@ -7,15 +7,20 @@
 ### COLX_565_sentiment (Tue)
 * [[Lab 1](./block5/COLX_565_sentiment_lab1.ipynb)], requires [subjectivity.txt](https://raw.githubusercontent.com/jungyeul/mds-cl-2023-24/main/block5/subjectivity.txt)
 * [[Lab 2](./block5/COLX_565_sentiment_lab2.ipynb)], MELD: https://github.com/declare-lab/MELD
-  
+* [Lab3]
+* [Lab4]
+
 ### COLX_525_morphology (Wed)
 * [[Lab 1](./block5/COLX_525_morphology_lab1.ipynb)]
 * [[Lab 2](./block5/COLX_525_morphology_lab2.ipynb)]
+* [Lab3]
+* [Lab4]
 
 ### COLX_531_translation (Thu)
 * [Lab 1]
 * [Lab 2]
 * [Lab 3] requires a repo with a folder `milestone1`, which contains `teamwork_contract.md`, `data_inspection.md`, and an [overleaf document](https://www.overleaf.com/read/qmqdztshyqdb#ef3e4d) with (*Timeline*, *Task description*, *Evaluation metrics*, *Week 1 Plan*, and *Contributions*)
+* [Lab 4]
 
 
 ## Block 4
