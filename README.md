@@ -20,7 +20,7 @@
 * [Lab 1]
 * [Lab 2]
 * [Lab 3] requires a repo with a folder `milestone1`, which contains `teamwork_contract.md`, `data_inspection.md`, and an [overleaf document](https://www.overleaf.com/read/qmqdztshyqdb#ef3e4d) with (*Timeline*, *Task description*, *Evaluation metrics*, *Week 1 Plan*, and *Contributions*)
-* [Lab 4]
+* [Lab 4] requires a repo with a folder `milestone2`
 
 
 ## Block 4
