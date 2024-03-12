@@ -8,7 +8,7 @@
 * [[Lab 1](./block5/COLX_565_sentiment_lab1.ipynb)], requires [subjectivity.txt](https://raw.githubusercontent.com/jungyeul/mds-cl-2023-24/main/block5/subjectivity.txt)
 * [[Lab 2](./block5/COLX_565_sentiment_lab2.ipynb)], MELD: https://github.com/declare-lab/MELD
 * [[Lab 3](./block5/COLX_565_sentiment_lab3.ipynb)], see the cheatsheet for amazon data
-* [[Lab 4](./block5/COLX_565_sentiment_lab4.ipynb)]
+* [[Lab 4](./block5/COLX_565_sentiment_lab4.ipynb)], requires [Emoji_Sentiment_Data_v1.0.csv](https://raw.githubusercontent.com/jungyeul/mds-cl-2023-24/main/block5/Emoji_Sentiment_Data_v1.0.csv)
 
 ### COLX_525_morphology (Wed)
 * [[Lab 1](./block5/COLX_525_morphology_lab1.ipynb)]
