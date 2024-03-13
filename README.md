@@ -14,7 +14,7 @@
 * [[Lab 1](./block5/COLX_525_morphology_lab1.ipynb)]
 * [[Lab 2](./block5/COLX_525_morphology_lab2.ipynb)]
 * [[Lab 3](./block5/COLX_525_morphology_lab3.ipynb)]
-* [Lab 4]
+* [[Lab 4](https://github.ubc.ca/MDS-CL-2023-24/COLX_525_morphology_students/blob/master/blank_labs/Lab4/Lab4.ipynb)] no cheat sheet 
 
 ### COLX_531_translation (Thu)
 * [Lab 1]
