@@ -1,5 +1,20 @@
 # Jungyeul's mds-cl-2023-24 repo for lab cheat sheets
 
+## Block 6
+### COLX_541_priv-eth-sec (Mon)
+* No lab (you will have a discussion group)
+
+### COLX_563_adv-semantics (Tue)
+* [Lab 1]
+
+### COLX_581_low-resource (Wed)
+* [Lab 1]
+
+
+### 585_trends (Thu)
+* ORCH 4018 at 2pm
+
+
 ## Block 5
 ### COLX_523_adv-corp-ling (Mon)
 * ORCH 4018 at 2pm
