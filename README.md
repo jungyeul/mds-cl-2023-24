@@ -7,7 +7,7 @@
 ### COLX_563_adv-semantics (Tuesday)
 * [[Lab 1]] Named Entity Recognition (requires a [dataset](https://github.ubc.ca/jungyeul/labs/blob/master/block6/COLX_563_adv-semantics_lab1.zip))
 * [[Lab 2]] Semantic Role Labelling (requires a [dataset](https://github.ubc.ca/jungyeul/labs/raw/master/block6/COLX_563_adv-semantics_lab2.zip))
-* [[Lab 3]] Question-Answering with BERT (requires a [dataset](https://drive.google.com/file/d/1jAXaGLyCllMoa6suFiZro4cuWf0Mnx9G/view?usp=sharing)@googledrive, [pretrained model](https://drive.google.com/file/d/1wm7NuOsEUGBti735aRyW6FG-lS4NMe7x/view?usp=share_link)@googledrive, [colab version](https://colab.research.google.com/drive/1vrrP_0z1QfEsvRz3sHmSbz3cdQmdM8SJ?usp=sharing))
+* [[Lab 3]] Question-Answering with BERT (requires a [dataset](https://drive.google.com/file/d/1jAXaGLyCllMoa6suFiZro4cuWf0Mnx9G/view?usp=sharing)@googledrive, [pretrained model](https://drive.google.com/file/d/1wm7NuOsEUGBti735aRyW6FG-lS4NMe7x/view?usp=share_link)@googledrive)
 * [[Lab 4]]  Slot filling (requires a [dataset](https://github.ubc.ca/jungyeul/labs/raw/master/block6/COLX_563_adv-semantics_lab4.zip), [a baseline system](https://github.ubc.ca/jungyeul/labs/blob/master/block6/COLX_563_adv-semantics_lab4_baseline.ipynb))
 
 ### COLX_581_low-resource (Wednesday)
