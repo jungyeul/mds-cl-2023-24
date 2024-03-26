@@ -5,16 +5,16 @@
 * No lab (you will have a discussion group)
 
 ### COLX_563_adv-semantics (Tuesday)
-* [[Lab 1]] Named Entity Recognition (requires a [dataset](https://github.ubc.ca/jungyeul/labs/blob/master/block6/COLX_563_adv-semantics_lab1.zip))
-* [[Lab 2]] Semantic Role Labelling (requires a [dataset](https://github.ubc.ca/jungyeul/labs/raw/master/block6/COLX_563_adv-semantics_lab2.zip))
+* [[Lab 1](block6/COLX_563_adv-semantics_lab1.ipynb)] Named Entity Recognition (requires a [dataset](block6/COLX_563_adv-semantics_lab1.zip))
+* [[Lab 2]] Semantic Role Labelling (requires a [dataset](block6/COLX_563_adv-semantics_lab2.zip))
 * [[Lab 3]] Question-Answering with BERT (requires a [dataset](https://drive.google.com/file/d/1jAXaGLyCllMoa6suFiZro4cuWf0Mnx9G/view?usp=sharing)@googledrive, [pretrained model](https://drive.google.com/file/d/1wm7NuOsEUGBti735aRyW6FG-lS4NMe7x/view?usp=share_link)@googledrive)
-* [[Lab 4]]  Slot filling (requires a [dataset](https://github.ubc.ca/jungyeul/labs/raw/master/block6/COLX_563_adv-semantics_lab4.zip), [a baseline system](https://github.ubc.ca/jungyeul/labs/blob/master/block6/COLX_563_adv-semantics_lab4_baseline.ipynb))
+* [[Lab 4]]  Slot filling (requires a [dataset](block6/COLX_563_adv-semantics_lab4.zip), [a baseline system](block6/COLX_563_adv-semantics_lab4_baseline.ipynb))
 
 ### COLX_581_low-resource (Wednesday)
-* [[Lab 1]] Crosslingual Transfer for Danish NER (require a [dataset](https://drive.google.com/file/d/15FPOBnJRqVg437-oScDNJmDgF7-TMlFn/view?usp=share_link)@googledirve)
-* [[Lab 2]] Delexicalized Parsing for North Sami (requires a [dataset](https://github.ubc.ca/jungyeul/labs/raw/master/block6/COLX_581_low_resource_lab2.zip))
-* [[Lab 3]] POS projection (requires a [dataset](https://github.ubc.ca/jungyeul/labs/raw/master/block6/COLX_581_low_resource_lab3.zip))
-* [[Lab 4]] Active learning for morphological segmentation (requires a [dataset](https://github.ubc.ca/jungyeul/labs/raw/master/block6/COLX_581_low_resource_lab4.zip))
+* [[Lab 1](block6/COLX_581_low_resource_lab1)] Crosslingual Transfer for Danish NER (require a [dataset](https://drive.google.com/file/d/15FPOBnJRqVg437-oScDNJmDgF7-TMlFn/view?usp=share_link)@googledirve)
+* [[Lab 2]] Delexicalized Parsing for North Sami (requires a [dataset](block6/COLX_581_low_resource_lab2.zip))
+* [[Lab 3]] POS projection (requires a [dataset](block6/COLX_581_low_resource_lab3.zip))
+* [[Lab 4]] Active learning for morphological segmentation (requires a [dataset](block6/COLX_581_low_resource_lab4.zip))
 
 ### 585_trends (Thu)
 * ORCH 4018 at 2pm
